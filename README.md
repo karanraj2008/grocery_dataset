@@ -81,16 +81,3 @@ The format of one line is as follows:
 			<h_i>                := height of the i'th product image
 			<b_i>                := brand of the i'th product image
 ```
-
-### subset.txt
-This file lists the names of the image files used for training and testing. It is a subset of the BrandImages and BrandImagesFromShelves contents.
-
-## Citation
-If you use this dataset, please cite the following:
-> @article{varol16a,  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TITLE = {{Toward Retail Product Recognition on Grocery Shelves}},  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AUTHOR = {Varol, G{\"u}l and Kuzu, Ridvan S.},  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JOURNAL =  {ICIVC},  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;YEAR = {2014}  
-}
-
